@@ -1,1 +1,1 @@
-# ex3b-naamaevenoz
+In this part of the exercise, we will turn the code we wrote in Part A into generic code. In this part of the exercise, we will update the chain_markov library so that we can create chains of different types (and not just tweets / chains of strings). In addition to updating the library and making it generic.
