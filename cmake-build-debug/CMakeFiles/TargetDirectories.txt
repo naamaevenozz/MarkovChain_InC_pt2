@@ -1,0 +1,3 @@
+C:/Users/naama/CLionProjects/ex3b-naamaevenoz/cmake-build-debug/CMakeFiles/ex3b_naamaevenoz.dir
+C:/Users/naama/CLionProjects/ex3b-naamaevenoz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/naama/CLionProjects/ex3b-naamaevenoz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+23	231	7423190372809387	ex3b_naamaevenoz.exe	3aeac0c929d40ef2
+63	893	7418933189193165	CMakeFiles/ex3b_naamaevenoz.dir/linked_list.c.obj	7c35fe05d06b7a00
+15	150	7420860067186584	CMakeFiles/ex3b_naamaevenoz.dir/markov_chain.c.obj	244b512e3a7de4ef
+91	486	7423188721184737	CMakeFiles/ex3b_naamaevenoz.dir/tweets_generator.c.obj	8ec9b6fb00d9f396
+25	154	7420860067238007	CMakeFiles/ex3b_naamaevenoz.dir/snakes_and_ladders.c.obj	523bd4b1c67c424e
+2	429	7423975263731056	build.ninja	b6d5f588ee4a2cf4
